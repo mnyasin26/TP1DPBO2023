@@ -29,4 +29,4 @@ Hubungan tujuh kelas di atas dijelaskan pada gambar berikut:
 4. Tampilkan data dengan memanggil method displayData pada objek table yang telah diinstansiasi
 
 ## Dokumentasi Program Saat Dijalankan
-![Dokumentasi Program Java](https://github.com/mnyasin26/LATIHAN2DPBO2023/blob/main/JAVA/Screenshot/JAVA_YASIN.png)
+![Dokumentasi Program Python](https://github.com/mnyasin26/TP1DPBO2023/blob/main/Screenshot/Cuplikan%20layar%202023-03-19%20223200.png)
