@@ -20,7 +20,7 @@ Composition
 
 Hubungan tujuh kelas di atas dijelaskan pada gambar berikut:
 
-![Desain Kelas]()
+![Desain Kelas](https://github.com/mnyasin26/TP1DPBO2023/blob/main/Desain%20Kelas.png)
 
 ## Alur Program
 1. Instansiasi kelas Mahasiswa, Dosen, Course, dan ProgramStudi dengan parameter dummy
